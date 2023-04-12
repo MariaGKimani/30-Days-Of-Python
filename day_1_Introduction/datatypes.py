@@ -19,5 +19,6 @@ point1 = (2, 3)
 point2 = (10, 8)
 euclidean_distance = math.dist(point1, point2)
 print(euclidean_distance)
+print(euclidean_distance)
 
 
