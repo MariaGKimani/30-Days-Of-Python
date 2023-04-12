@@ -19,8 +19,9 @@
 ###         Exercise: Level 1
 
  
- **Question 1:** What is the purpose of this project?<br>
-**Question 2:** Open the python interactive shell and do the following operations. 
+ **Question 1:** Check the python version you are using?<br>
+
+**2** Open the python interactive shell and do the following operations. 
 The operands are 3 and 4.
 addition(+)
 subtraction(-)
@@ -29,12 +30,13 @@ modulus(%)
 division(/)
 exponential(**)
 floor division operator(//)<br>
- **Question 3:** Write strings on the python interactive shell. The strings are the following:
+
+ **3:** Write strings on the python interactive shell. The strings are the following:
 Your name
 Your family name
 Your country
 I am enjoying 30 days of python<br>
-**Question 4:** Check the data types of the following data:
+** 4:** Check the data types of the following data:
 10
 9.8
 3.14
