@@ -28,7 +28,7 @@ multiplication(*)
 modulus(%)
 division(/)
 exponential(**)
-floor division operator(//)
+floor division operator(//)<br>
  **Question 3:** Write strings on the python interactive shell. The strings are the following:
 Your name
 Your family name
