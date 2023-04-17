@@ -36,7 +36,7 @@ Your name
 Your family name
 Your country
 I am enjoying 30 days of python<br>
-** 4:** Check the data types of the following data:
+  **4:**Check the data types of the following data:
 10
 9.8
 3.14

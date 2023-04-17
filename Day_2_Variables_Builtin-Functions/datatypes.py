@@ -59,8 +59,8 @@ print(circum_of_circle)
 first,last,full,countries,cities,age,is_marry = 'Deo','Massawe','Deo Massawe','Rwanda','Nairobi',35,True
 
 
-# c = (input("Enter radius of a circle"))
-# print(c.area())
+c = float(input("Enter radius of a circle"))
+print(c.area())
 
 
 
