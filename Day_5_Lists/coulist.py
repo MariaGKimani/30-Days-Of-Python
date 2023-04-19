@@ -206,7 +206,7 @@ print(y)
 
 print(countries[192])
 print(len(countries))
-countries.append("Kenya")
+countries.insert(0,"Kenya")
 print(countries)
 
 # ['China', 'Russia', 'USA', 'Finland', 'Sweden',
