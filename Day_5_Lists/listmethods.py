@@ -87,8 +87,8 @@ print(it_companies)
 print(it_companies.pop(-1))
 
 # Destroy the IT companies list
-del it_companies
-print(it_companies)
+# del it_companies
+# print(it_companies)
 
 
 # Join the following lists:
@@ -97,6 +97,8 @@ back_end = ['Node','Express', 'MongoDB']
 x= front_end + back_end
 print(x)
 front_end.extend(back_end)
+print(front_end)
+front_end.extend(['xxx','yyyyyy'])
 print(front_end)
 
 # After joining the lists in question above.
