@@ -48,6 +48,9 @@ del food_stuff_tp
 print(food_stuff_lt)
 
 
+#####
+
+
 nordic_countries = ('Denmark', 'Finland','Iceland', 'Norway', 'Sweden')
 # Check if 'Estonia' is a nordic country
 
