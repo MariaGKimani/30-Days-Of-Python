@@ -31,8 +31,9 @@ print(len(student))
 
 # Get the value of skills and check 
 # the data type, it should be a list
-# x = student['skills'].values()
-# print(x)
+x =(student['skills'])
+print(x)
+print(type(x))
 
 # Modify the skills values by adding one or two skills
 student['skills'].append('Java')
