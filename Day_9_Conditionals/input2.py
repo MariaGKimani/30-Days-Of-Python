@@ -23,23 +23,39 @@ grade1 = score(85)
 #  If the user input is: September, October or November, 
 # the season is Autumn. December, January or February, 
 # the season is Winter. March, April or May, 
-# the season is Spring June, July or August, the season is Summer
+# # the season is Spring June, July or August, the season is Summer
 
-x = "September","October","November"
-y = "December","January","February"
-z = "March","April","May"
-w = "June","July","August"
-person = input("Enter month: ")
-if person in x :
-    print("Autumn")
-elif person in y:
-    print("Winter")
-elif person in z:
-    print("spring")
-elif person in w:
-    print("summer")
+# x = "September","October","November"
+# y = "December","January","February"
+# z = "March","April","May"
+# w = "June","July","August"
+# person = input("Enter month: ")
+# if person in x :
+#     print("Autumn")
+# elif person in y:
+#     print("Winter")
+# elif person in z:
+#     print("spring")
+# elif person in w:
+#     print("summer")
 
 
+# If a fruit doesn't exist in the list
+# add the fruit to the list and
+# print the modified list. 
+# If the fruit exists print('That fruit already exist in the list')
+fruits = ['banana', 'orange', 'mango', 'lemon']
+
+def new_fruits (fruit):
+     if fruit   in fruits:
+         print('That fruit already exist in the list')
+        
+     else:
+         fruits.append(fruit)
+         print(fruits)
+
+new_fruits('kiwi')
+new_fruits('banana')
 
          
 
